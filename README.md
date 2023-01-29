@@ -1,1 +1,1 @@
-# rock-paper-scissors
+# blog.francmirror.github.io
